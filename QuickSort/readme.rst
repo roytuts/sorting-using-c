@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/quick-sort-using-c/
+Please follow the tutorial https://roytuts.com/quick-sort-using-c/
